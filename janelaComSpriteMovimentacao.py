@@ -8,6 +8,7 @@ import sys
 
 # Inicializa o pygame
 pygame.init()
+#teste
 
 # Define as dimensões da janela
 largura, altura = 300, 200
